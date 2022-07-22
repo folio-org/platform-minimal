@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mod-configuration-5.9.0-SNAPSHOT.115",
+    "action": "enable"
+  },
+  {
+    "id": "mod-users-19.0.0-SNAPSHOT.206",
+    "action": "enable"
+  },
+  {
+    "id": "mod-login-7.8.0-SNAPSHOT.120",
+    "action": "enable"
+  },
+  {
+    "id": "mod-permissions-6.2.0-SNAPSHOT.153",
+    "action": "enable"
+  },
+  {
+    "id": "mod-authtoken-2.12.0-SNAPSHOT.118",
+    "action": "enable"
+  },
+  {
+    "id": "mod-users-bl-7.4.0-SNAPSHOT.120",
+    "action": "enable"
+  }
+]

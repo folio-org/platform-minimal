@@ -1,0 +1,14 @@
+[
+  {
+    "id": "folio_stripes-core-8.2.100000588",
+    "action": "enable"
+  },
+  {
+    "id": "folio_stripes-smart-components-7.2.100000909",
+    "action": "enable"
+  },
+  {
+    "id": "folio_users-8.2.1000001856",
+    "action": "enable"
+  }
+]
