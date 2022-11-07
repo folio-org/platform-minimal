@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "mod-sender",
+    "action": "enable"
+  },
+  {
+    "id": "mod-email",
+    "action": "enable"
+  }
+]
