@@ -1312,9 +1312,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@~7.4.0":
-  version "7.4.1000001149"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001149.tgz#3e5b02e65a4213e78bbad1ce83e3c0747641234b"
-  integrity sha512-X92tY+/y2JMjieIkxYYSUj/443rMZtjE67dsRh3/5KLYpExkc6T1fOvSuyzFJhPefXprh5qNsZYegnuoeYmJ1Q==
+  version "7.4.1000001154"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001154.tgz#04f9a5180c30b2fdb86ed4471075164fc093db3d"
+  integrity sha512-choyh1aClrxTbTozdj/LnSx0EPOID/K7CZeXJvA3ZWiaYStL6D13d8qjWsglQqQmAYU/50mjW7as/8aCGtWZ4A==
   dependencies:
     "@rehooks/local-storage" "2.4.0"
     classnames "^2.2.6"
@@ -9188,9 +9188,9 @@ typedarray-to-buffer@^3.1.5:
     is-typedarray "^1.0.0"
 
 typescript@^4.2.4:
-  version "4.8.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/typescript/-/typescript-4.8.4.tgz#c464abca159669597be5f96b8943500b238e60e6"
-  integrity sha512-QCh+85mCy+h0IGff8r5XWzOVSbBO+KfeYrMQh7NJ58QujwcE22u+NUSmUxqF+un70P9GXKxa2HCNiTTMJknyjQ==
+  version "4.9.3"
+  resolved "https://repository.folio.org/repository/npm-ci-all/typescript/-/typescript-4.9.3.tgz#3aea307c1746b8c384435d8ac36b8a2e580d85db"
+  integrity sha512-CIfGzTelbKNEnLpLdGFgdyKhG23CKdKgQPOBc+OUNrkJ2vr+KSzsSV5kq5iWhEQbok+quxgGzrAtGWCyU7tHnA==
 
 ua-parser-js@^0.7.30:
   version "0.7.32"
