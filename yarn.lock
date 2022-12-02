@@ -1312,9 +1312,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@~7.4.0":
-  version "7.4.1000001181"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001181.tgz#e4194e8c98fcdac5ee00e29939fe811991faf320"
-  integrity sha512-0xXAGyrgvSO6yq20Q3jkevRMJW8qSxgubKDytWDmiPe7lI3Tmd/yvWWNDr7Xc83TPU/ChpNNj+o44OwAIlYRIw==
+  version "7.4.1000001185"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001185.tgz#fa38b4fdf5ca70f194d019ad69e6dbd82fe93981"
+  integrity sha512-OkoLpwoRYOIGU0kbPGS958JBEC6Mwk/N3QovaT8aiXTWGYY3un0kABBC/mvtge5ZCBPV038zDGG3BC0S9nwU6w==
   dependencies:
     "@rehooks/local-storage" "2.4.0"
     classnames "^2.2.6"
