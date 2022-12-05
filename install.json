@@ -17,10 +17,10 @@
   "id" : "mod-password-validator-2.6.0-SNAPSHOT.73",
   "action" : "enable"
 }, {
-  "id" : "mod-users-bl-7.5.0-SNAPSHOT.126",
+  "id" : "mod-users-bl-7.5.0-SNAPSHOT.128",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-8.4.100000785",
+  "id" : "folio_stripes-core-8.4.100000790",
   "action" : "enable"
 }, {
   "id" : "mod-notes-4.1.0-SNAPSHOT.215",
