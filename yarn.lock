@@ -1193,9 +1193,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@~10.4.0":
-  version "10.4.1000002042"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-10.4.1000002042.tgz#431f869a0da1482ebfdfd42207e0e37a41ea3289"
-  integrity sha512-8amEr3pcILfizsnBUmO10YbZOJ26A3jDk+h0qhdqplp35JsQATXr8eF0RQneveGq9/3V6BmnwnzCB42aMsstog==
+  version "10.4.1000002048"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-10.4.1000002048.tgz#b3fd15d5e2696f268e331be3f1ebfb46edf9f890"
+  integrity sha512-6QhGTaRrMNMietqVtnmLFHaz866PcxO7HDlRfpBTjt+c7seDs3EEeBUaNQwu0ndP3JOJZ/sAagYkvdjAH+ZOlQ==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.0.5"
     classnames "^2.2.5"
@@ -1236,9 +1236,9 @@
     uuid "^8.3.2"
 
 "@folio/stripes-core@~8.4.0":
-  version "8.4.100000790"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-8.4.100000790.tgz#82195fd7f794e4328977c97cb87b8bf4e537027b"
-  integrity sha512-nf4x3pazkUOppI47Y46kBA3vqYH8TolICsNOOBhIBUlEPhXeO9Qfcy8rFgL0ww6E3u6DdihZx5ZzVsZICctW/w==
+  version "8.4.100000822"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-8.4.100000822.tgz#14e1f6f2f10f22af06c70b44460ead942ca213ce"
+  integrity sha512-ZjvZfh6fXZrhVOgbb4OzbIih7wu+X71mt1TFNgvMQ9TzyrnyTooL4EUT5ajFnno6ELucIZc2LZFrTvyJoFeyuA==
   dependencies:
     "@apollo/client" "^3.2.1"
     classnames "^2.2.5"
@@ -1312,9 +1312,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@~7.4.0":
-  version "7.4.1000001196"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001196.tgz#a0abd155b7aa43a41a93f92cf5a1d66a192a5d3b"
-  integrity sha512-Pe8GR+DAoQsDRUR6QVhEutHI5bKYTToKovGTuWJKcuNqT+yooAjt93Wg2/Wm+MdxL1hcC/Qvm+s70FWQzZULhA==
+  version "7.4.1000001202"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-7.4.1000001202.tgz#45a47b98cbcfb3c052e4813ac61204ea71cf4c0c"
+  integrity sha512-oQ13Xjsbm6e+LfZO0p7kewwVm9z0HA8klBdyKfmofSyoAJIPX7btoikPQ5T+uEdWSfnQEMRj27u13zYW9hsH8Q==
   dependencies:
     "@rehooks/local-storage" "2.4.0"
     classnames "^2.2.6"
