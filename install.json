@@ -2,10 +2,10 @@
   "id" : "mod-users-19.1.0-SNAPSHOT.215",
   "action" : "enable"
 }, {
-  "id" : "mod-permissions-6.3.0-SNAPSHOT.158",
+  "id" : "mod-permissions-6.3.0-SNAPSHOT.159",
   "action" : "enable"
 }, {
-  "id" : "mod-login-7.9.0-SNAPSHOT.125",
+  "id" : "mod-login-7.9.0-SNAPSHOT.126",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.13.0-SNAPSHOT.124",
