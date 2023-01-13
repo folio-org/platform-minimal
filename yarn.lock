@@ -1456,9 +1456,9 @@
     redux "~4.0.0"
 
 "@folio/users@>=2.17.0":
-  version "8.3.1000002507"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-8.3.1000002507.tgz#706c1784f1fd3c2306b9be4b791bddd724128321"
-  integrity sha512-YN45ADvvc2Gv2eX00agpGj1UDlVtRvL4Ksh+xD5tYCrSd0qMPz1qQh9MLhHu/PJ5BSCHjQ/HScdRYR8dYt3ySQ==
+  version "8.3.1000002560"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-8.3.1000002560.tgz#391b47aa9de6e9a1b3ea0b3465ca29e4cbfc3c2f"
+  integrity sha512-gPGHIC+anYVmuuRszewWP1nwOeCp5nIttPUM/HdvSPmPFOBpLkozd6v7m2g2Fxn69co0qfUUlPc9b/6W4Bxxog==
   dependencies:
     final-form-set-field-data "^1.0.2"
     hashcode "^1.0.3"
@@ -6619,9 +6619,9 @@ node-abi@^3.3.0:
     semver "^7.3.5"
 
 node-addon-api@^5.0.0:
-  version "5.0.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/node-addon-api/-/node-addon-api-5.0.0.tgz#7d7e6f9ef89043befdb20c1989c905ebde18c501"
-  integrity sha512-CvkDw2OEnme7ybCykJpVcKH+uAOLV2qLqiyla128dN9TkEWfrYmxG6C2boDe5KcNQqZF3orkqzGgOMvZ/JNekA==
+  version "5.1.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/node-addon-api/-/node-addon-api-5.1.0.tgz#49da1ca055e109a23d537e9de43c09cca21eb762"
+  integrity sha512-eh0GgfEkpnoWDq+VY8OyvYhFEzBk6jIYbRKdIlyTiAXIVJ8PyBaKb0rp7oDtoddbdoHWhq8wwr+XZ81F1rpNdA==
 
 node-fetch-npm@^2.0.2:
   version "2.0.4"
