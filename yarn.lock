@@ -1161,9 +1161,9 @@
   integrity sha512-zJ6hb3FDgBbO8d2e83vg6zq7tNvDqSq9RwdwfzJ8tdm9JHNvANq2fqwyRn6mlpUb7CwTs5ILdUrGwi9Gk4vY5w==
 
 "@folio/plugin-find-user@^6.0.0":
-  version "6.4.100000162"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-user/-/plugin-find-user-6.4.100000162.tgz#fa52e9e2505844c6a953f38a9c034cc72053a849"
-  integrity sha512-jbituw8F1KHFue6oilpoJA7AYJZApwvFiLl+hSklTJfrhfGSGk4AkmGnf/8YSSmcgk2FAUlUomCAyKSqrNHf6A==
+  version "6.4.100000174"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-user/-/plugin-find-user-6.4.100000174.tgz#5d0a8447511ad9cefbd2aebc195b80dae68f2f0a"
+  integrity sha512-kelDnCKcsb3tsYtv1XEjYtKp3EtwulbVAu0WxoBDPEYu9CMY6obIaSXPzxcefamPSpRfmEyaN0z2D4MtOxvmUw==
   dependencies:
     classnames "^2.2.5"
     dom-helpers "^3.4.0"
