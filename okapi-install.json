@@ -1,6 +1,6 @@
 [
   {
-    "id": "mod-users-19.1.0-SNAPSHOT.215",
+    "id": "mod-configuration-5.9.1-SNAPSHOT.121",
     "action": "enable"
   },
   {
@@ -8,15 +8,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-login-7.9.0-SNAPSHOT.126",
+    "id": "mod-users-19.1.0-SNAPSHOT.215",
     "action": "enable"
   },
   {
-    "id": "mod-authtoken-2.13.0-SNAPSHOT.124",
-    "action": "enable"
-  },
-  {
-    "id": "mod-configuration-5.9.1-SNAPSHOT.121",
+    "id": "mod-notes-4.1.0-SNAPSHOT.217",
     "action": "enable"
   },
   {
@@ -24,11 +20,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-bl-7.5.0-SNAPSHOT.130",
+    "id": "mod-authtoken-2.13.0-SNAPSHOT.124",
     "action": "enable"
   },
   {
-    "id": "mod-notes-4.1.0-SNAPSHOT.217",
+    "id": "mod-login-7.9.0-SNAPSHOT.126",
+    "action": "enable"
+  },
+  {
+    "id": "mod-users-bl-7.5.0-SNAPSHOT.130",
     "action": "enable"
   },
   {
