@@ -1171,12 +1171,12 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-cli@^2.0.0", "@folio/stripes-cli@^2.4.0":
-  version "2.6.200000204"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-cli/-/stripes-cli-2.6.200000204.tgz#c0eb8319bc30d6e22441989811318694a7580fd7"
-  integrity sha512-FQTWON1X3t3cfNttPLBZ/RG7ZfBvveQCF51cO2A+ZKb+UCvOn1QZtpZ7I7QnP2P/ASI+MR7e9AelQxXU2WKY/w==
+  version "2.6.200000210"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-cli/-/stripes-cli-2.6.200000210.tgz#a958a8b4078cab48029418f8a035e6b04b4e3487"
+  integrity sha512-Wp51+7ZKUaloXLiH8vz99R/vnnQuBI6KM06r1pgWt6KQrrTTZNL9sLE0Opn24beXIuyc0Bpmab+ejbvJvTmbXA==
   dependencies:
     "@folio/stripes-testing" "^3.0.0"
-    "@folio/stripes-webpack" "^4.1.0"
+    "@folio/stripes-webpack" "^4.2.0"
     "@octokit/rest" "^18.6.0"
     babel-plugin-istanbul "^6.0.0"
     configstore "^3.1.1"
@@ -1391,7 +1391,7 @@
     lodash "^4.17.4"
     query-string "^7.1.2"
 
-"@folio/stripes-webpack@^4.1.0":
+"@folio/stripes-webpack@^4.2.0":
   version "4.2.100000309"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-webpack/-/stripes-webpack-4.2.100000309.tgz#c8d7cf3e936c9c52e77fff1732d747a56da7fa70"
   integrity sha512-5oPhBjasoMuAhzZeSIq13bxda6xr8x3XkEakhDb4DwkXfmqOuvJXanb626uVaKEqBev5q4IQbhxwd1AywU8qrA==
