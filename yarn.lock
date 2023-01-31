@@ -1378,9 +1378,9 @@
     minimist "^1.2.0"
 
 "@folio/stripes-ui@~1.0.0":
-  version "1.0.10000052"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-ui/-/stripes-ui-1.0.10000052.tgz#711a0d1a86a8b66e014568a81c2a514b27440a38"
-  integrity sha512-4Q7On5nkXrQbbOfhWHsNYbu9xTQXVp/pgtniJwdm/Z/xWC959rmw8/7vdAcjzOEb4ok7BbWGrzPmqc91NmRb8A==
+  version "1.0.10000057"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-ui/-/stripes-ui-1.0.10000057.tgz#9aa6f5fec401c6ce32f692570858f77e9f3c1e79"
+  integrity sha512-QYMFqHp1NAyp8N1bKNiMg5K7h0+yxLlf9V4GpCV1LU/VW9yV0Kg8aNW25oN+9UdmkvwyOfUSsAdhbNE3hieInw==
 
 "@folio/stripes-util@~5.2.0":
   version "5.2.10000031"
