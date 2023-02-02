@@ -85,7 +85,7 @@ pipeline {
     stage('Build FOLIO instance') {
       steps {
         checkout([$class: 'GitSCM',
-                  branches: [[name: '*/folio-3625-platform-minimal']],
+                  branches: [[name: '*/master']],
                   doGenerateSubmoduleConfigurations: false,
                   extensions: [[$class: 'SubmoduleOption',
                   disableSubmodules: false,
