@@ -6,6 +6,10 @@ Copyright (C) 2015-2022 The Open Library Foundation
 This software is distributed under the terms of the Apache License,
 Version 2.0. See the file "[LICENSE](LICENSE)" for more information.
 
+## DEPRECATED
+
+platform-mimimal is unsupported. Please use https://github.com/folio-org/platform-complete instead.
+
 ## Introduction
 
 This is the "minimal" Stripes "platform". It consists simply of an
